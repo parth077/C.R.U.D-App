@@ -19,6 +19,7 @@
 
 4. We can UPDATE the user 
 
+![CRUD4](https://user-images.githubusercontent.com/55981040/200508664-1b3a3e82-e361-4d1e-a03d-54df8a4a8050.PNG)
 
 
 5. We can also DELETE particular user
