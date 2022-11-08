@@ -13,3 +13,8 @@
 
 
 3. We can also check profile of a particular user
+
+![CRUD3](https://user-images.githubusercontent.com/55981040/200508042-63525bc1-3a33-42d3-9fe7-0312d6312064.PNG)
+
+
+4. We can also delete particular user
